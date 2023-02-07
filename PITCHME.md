@@ -73,3 +73,8 @@ https://github.com/yhatt/marp-cli-example
 ### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
 
 https://github.com/yhatt/marp-cli-example
+
+---
+
+# Extra slide
+You can also use [HackMD](https://hackmd.io) to edit your slides online!
